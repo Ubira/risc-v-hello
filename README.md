@@ -21,7 +21,9 @@ https://riscv.org/technical/specifications/
 ## Videos
 https://www.youtube.com/watch?v=Ozj_xU0rSyY
 https://www.youtube.com/watch?v=GWiAQs4-UQ0
+https://www.youtube.com/watch?v=0IeOaiKszLk&t=618s
 
 ## Documentation
 https://riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf
+https://gpages.juszkiewicz.com.pl/syscalls-table/syscalls.html
 https://github.com/westerndigitalcorporation/RISC-V-Linux/blob/master/linux/include/uapi/asm-generic/unistd.h
